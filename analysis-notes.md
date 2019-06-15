@@ -3,12 +3,18 @@
 - [ ] 12 lines total
 - [ ] Write in the intervals between voices
   - [x] Line 0.5
-  - [ ] Line 1
+  - [x] Line 1
+  - [x] Line 1.5
+  - [x] Line 2
+  - [x] Line 3
+  - [x] Line 4
+  - [x] Line 5
 - [ ] Consonance or Dissonance for each interval (
   - [ ] Line 1
 - [ ] Write in overall chord names/structures
   - [x] Line 0.5
-  - [ ] Line 1
+  - [x] Line 1
+  - [x] Line 1.5
 - [ ] Mark cadences
 - [ ] Mark beginnings and ends of imitation, and which voices
 - [ ] Write Roman numerals above chords
